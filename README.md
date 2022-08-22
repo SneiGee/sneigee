@@ -13,9 +13,9 @@
  <a href="#" alt="Schneider's blog">
    <img src="https://img.shields.io/badge/sneigee.com-brightgreen?style=flat-square" />
  </a>
- <a>
+ <!-- <a>
    LET'S CONNECT
- </a>
+ </a> -->
 </p>
 
 
