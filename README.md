@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Michael Schneider 👋</h1>
 
 <p align="center"> 
- <a href="https://www.linkedin.com/in/michael-schneider-708b49121" alt="mukesh's linkedin">
+ <a href="https://www.linkedin.com/in/michael-schneider-708b49121" alt="Schneider's linkedin">
    <img src="https://img.shields.io/badge/-micihaelschneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
  </a>
  <a href="https://twitter.com/sneigeetech" alt="Schneider's twitter">
-   <img src="https://img.shields.io/badge/-@iammukeshm-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@michael-schneider-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/sneigee" alt="Schneider's github">
    <img src="https://img.shields.io/badge/-@michaelschneider-%23181717?style=flat-square&logo=github" />
