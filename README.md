@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/-micihaelschneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
  </a>
  <a href="https://twitter.com/sneigeetech" alt="Schneider's twitter">
-   <img src="https://img.shields.io/badge/-@michael-schneider-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@michaelschneider-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
  <a href="https://github.com/sneigee" alt="Schneider's github">
    <img src="https://img.shields.io/badge/-@michaelschneider-%23181717?style=flat-square&logo=github" />
@@ -13,9 +13,9 @@
  <a href="#" alt="Schneider's blog">
    <img src="https://img.shields.io/badge/sneigee.com-brightgreen?style=flat-square" />
  </a>
- <h6>
-   Let's connect
- </h6>
+ <a>
+   LET'S CONNECT
+ </a>
 </p>
 
 
