@@ -44,8 +44,8 @@ I always make sure that I find enough time for open source contribution that als
 #### Trivia
 - 📝 Buy me a coffee: https://www.buymeacoffee.com/sneigee
 <!-- - 📝 I blog here: http://codewithmukesh.com/ -->
-- 📫 Follow me on Twitter [@iammukeshm](https://twitter.com/sneigeetech) / [@sneigeetech](https://twitter.com/sneigeetech)
-- 🦸 Endorse me / Leave a Recommendation on Linkedin [@iammukeshm](https://www.linkedin.com/in/iammukeshm/)
+- 📫 Follow me on Twitter [@sneigeetech](https://twitter.com/sneigeetech) / [@sneigeetech](https://twitter.com/sneigeetech)
+- 🦸 Endorse me / Leave a Recommendation on Linkedin [@michael-schneider](https://www.linkedin.com/in/michael-schneider-708b49121/)
 - 🦸 Career Aim - Work for a cool Product company! 
 
 ---
