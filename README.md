@@ -4,6 +4,9 @@
  <a href="https://www.linkedin.com/in/michael-schneider-708b49121" alt="Schneider's linkedin">
    <img src="https://img.shields.io/badge/-micihaelschneider-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iammukeshm" />
  </a>
+ <a href="https://www.youtube.com/channel/UCvCgfaTgk3Fw7-CHa9G7GkA" alt="Schneider's Youtube channel">
+   <img src="https://img.shields.io/youtube/channel/subscribers/UCvCgfaTgk3Fw7-CHa9G7GkA?style=social" />
+ </a>
  <a href="https://twitter.com/sneigeetech" alt="Schneider's twitter">
    <img src="https://img.shields.io/badge/-@michaelschneider-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
@@ -19,9 +22,10 @@
 </p>
 
 
-> I’m a software engineer specializing in building Web Applications and software development. For the frontend I love building Software and Web App using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
+> I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. For the frontend I love building Software and Web App using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 > 
-> Am building my personal awesome blog where i will be sharing my knowledge and whatever I've learned. My Blog will contains more than 100 Detailed Articles (linked to Github Repositories) around Microsoft Technologies
+> Am building my start-up project. It is a music ear training application that helps users to develop their ability to identify musical notes, chords, and intervals by ear.
+> Am also building my personal awesome blog where i will be sharing my knowledge and whatever I've learned. My Blog will contains more than 100 Detailed Articles (linked to Github Repositories) around Microsoft Technologies
 <!-- > I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers. -->
 
 #### 💻 Open Source Contributions
@@ -43,7 +47,7 @@ I always make sure that I find enough time for open source contribution that als
 
 #### Trivia
 - 📝 Buy me a coffee: https://www.buymeacoffee.com/sneigee
-<!-- - 📝 I blog here: http://codewithmukesh.com/ -->
+<!-- - 📝 I blog here: / -->
 - 📫 Follow me on Twitter [@sneigeetech](https://twitter.com/sneigeetech) / [@sneigeetech](https://twitter.com/sneigeetech)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@michael-schneider](https://www.linkedin.com/in/michael-schneider-708b49121/)
 - 🦸 Career Aim - Work for a cool Product company! 
