@@ -22,15 +22,16 @@
 </p>
 
 
-> I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. For the frontend I love building Software and Web App using Angular & ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
+> I am an independent full-stack developer and content creator, working towards building my own version of the digital world. I undertake coding projects from scratch, starting with planning and designing to creating practical solutions with code. Similarly, my video content creation process includes ideation, planning, and adding artistic touches to the final product. 
+I specialize in using Angular and ASP.NET Core (Blazor or MVC/Razor Pages) for building software and web applications on the front-end. When it comes to the backend, I follow Clean Architecture Principles and work with .NET Core WebAPIs.
 > 
-> Am building my start-up project. It is a music ear training application that helps users to develop their ability to identify musical notes, chords, and intervals by ear.
-> Am also building my personal awesome blog where i will be sharing my knowledge and whatever I've learned. My Blog will contains more than 100 Detailed Articles (linked to Github Repositories) around Microsoft Technologies
+> I am developing a music ear training app that improves users' ability to identify notes, chords, and intervals by ear.
+> I am currently in the process of building a personal blog where I plan to share my knowledge and experiences with Microsoft technologies. The blog will feature over 100 detailed articles linked to GitHub repositories.
 <!-- > I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers. -->
 
 #### 💻 Open Source Contributions
 
-I always make sure that I find enough time for open source contribution that also helps me expand my knowledge and work with other developers and team globally.
+Ensuring time for open-source contributions helps me learn and collaborate globally.
 
 <!-- - 💥 [fullstackhero](https://github.com/fullstackhero/): Collection of Enterprise Level Boilerplates for Modern Web Applications that gets you started with premium application development in no-time!
 - 🛒 [Blazor Hero](https://github.com/blazorhero/CleanArchitecture): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
@@ -50,7 +51,7 @@ I always make sure that I find enough time for open source contribution that als
 <!-- - 📝 I blog here: / -->
 - 📫 Follow me on Twitter [@sneigeetech](https://twitter.com/sneigeetech) / [@sneigeetech](https://twitter.com/sneigeetech)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@michael-schneider](https://www.linkedin.com/in/michael-schneider-708b49121/)
-- 🦸 Career Aim - Work for a cool Product company! 
+- 🦸 Career Aim - Work for a cool product company! 
 
 ---
 
