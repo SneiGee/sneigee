@@ -75,10 +75,10 @@ Ensuring time for open-source contributions helps me learn and collaborate globa
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
   </a>
  <a href="https://java.com">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg" alt="java" style="vertical-align:top; margin:4px;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
  <a href="https://docs.spring.io/">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg" alt="spring-boot" style="vertical-align:top; margin:4px;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
