@@ -23,11 +23,11 @@
 
 
 > I am an independent full-stack developer and content creator, working towards building my own version of the digital world. I undertake coding projects from scratch, starting with planning and designing to creating practical solutions with code. Similarly, my video content creation process includes ideation, planning, and adding artistic touches to the final product. 
-I specialize in using Angular and ASP.NET Core (Blazor or MVC/Razor Pages) for building software and web applications on the front-end. When it comes to the backend, I follow Clean Architecture Principles and work with .NET Core WebAPIs.
+I specialize in using Angular, React - NextJS and ASP.NET Core (Blazor or MVC/Razor Pages) for building software and web applications on the front-end. When it comes to the backend, I follow Clean Architecture Principles and work with .NET Core, Java - Spring-boot WebAPIs.
 > 
 > I am developing a music ear training app that improves users' ability to identify notes, chords, and intervals by ear.
 > I am currently in the process of building a personal blog where I plan to share my knowledge and experiences with Microsoft technologies. The blog will feature over 100 detailed articles linked to GitHub repositories.
-<!-- > I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers. -->
+<!-- > I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies and Java - Spring-boot that brings me around 80,000 Monthly readers. -->
 
 #### 💻 Open Source Contributions
 
@@ -73,6 +73,12 @@ Ensuring time for open-source contributions helps me learn and collaborate globa
   </a>
   <a href="https://angular.io">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+ <a href="https://java.com">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-horizontal.svg" alt="java" style="vertical-align:top; margin:4px;">
+  </a>
+ <a href="https://docs.spring.io/">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/springio/springio-ar21.svg" alt="spring-boot" style="vertical-align:top; margin:4px;">
   </a>
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
